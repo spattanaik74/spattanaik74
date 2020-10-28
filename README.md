@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/spattanaik74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/spattanaik74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sarthak%20Pattanaik-blue?style=flat-square&logo=linkedin"></a>
 
 
 <a href="mailto:spattanaik74@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-spattanaik74@gmail.com-blue?style=flat-square&logo=gmail"></a>
