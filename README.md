@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Game Development as hobbies/side hustles.
 
 
 
@@ -20,21 +20,21 @@
 
 
 
-- 💻 &nbsp; Python | C# | C++ | MySQL
+- 💻 &nbsp; Python | C# | C++ | Data Structure | Algorithm | Unity | Unreal
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Flask | Django | FastAPI
 
-<!--
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
--->
+
+- 🔧 &nbsp; Git | Markdown 
+
+- 🖥 &nbsp; Illustrator| Photoshop | Blender
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳
 
 <hr>
 
@@ -68,13 +68,10 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/spattanaik74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:spattanaik74@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-spattanaik74@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
@@ -82,7 +79,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=spattanaik74.spattanaik74)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
