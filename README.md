@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | C# | C++ | Data Structure | Algorithm | Unity | Unreal
+- 💻 &nbsp; Python | JAVA | Data Structure | Algorithm | Unity | Unreal
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Flask | Django | FastAPI
+- 🌐 &nbsp; HTML | CSS | ReactJS | JavaScript | Flask | Django | FastAPI
 
 - 🛢 &nbsp; MySQL | MongoDB
 
