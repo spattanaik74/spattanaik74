@@ -6,9 +6,9 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Computer Science Engineer.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
