@@ -30,11 +30,13 @@
 
 - 🖥 &nbsp; Illustrator| Photoshop | Blender
 
+- ☁️ &nbsp; Docker | Kubernetes | AWS
+
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳
+- 🔧 &nbsp; AWS 
 
 <hr>
 
